@@ -12,7 +12,7 @@
 
 ## 🎯 Project Context
 
-This is a full-stack web application developed in 5 days as a proactive response to a **Junior Programmer** job posting at an electronic invoicing company. The project's goal is to demonstrate the technical skills and business understanding required for the role, focusing on data management, client support simulation, and error handling.
+This is a full-stack web application developed in 2 days as a proactive response to a **Junior Programmer** job posting at an electronic invoicing company. The project's goal is to demonstrate the technical skills and business understanding required for the role, focusing on data management, client support simulation, and error handling.
 
 The entire interface and data are in English to showcase language proficiency, a valued skill in the job description.
 
