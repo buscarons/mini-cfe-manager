@@ -25,9 +25,9 @@ This application simulates the management of Electronic Fiscal Vouchers (CFE), m
 *   **📊 CFE Dashboard:** Displays a clear, paginated list of all issued invoices, with their corresponding status.
 *   **➕ Manual CFE Creation:** A form to create individual invoices, demonstrating handling of user input and database insertion with security in mind.
 *   **🔄 Status Updates (AJAX):** A "Process" button for pending CFEs simulates validation with a fiscal authority (DGI). It updates the status to "Approved" or "Error" asynchronously using JavaScript (`fetch` API) without a page reload.
-*   **📂 **Bulk Data Import:** A key feature addressing the **"Data Loading"** requirement. Users can upload a `.csv` file with multiple invoices. The backend script processes the file, validates each row by finding the client's RUT, and inserts the data efficiently.
+*   **📂 Bulk Data Import:** A key feature addressing the **"Data Loading"** requirement. Users can upload a `.csv` file with multiple invoices. The backend script processes the file, validates each row by finding the client's RUT, and inserts the data efficiently.
 *   **📄 Data Export:** Complements the import functionality by allowing the user to export the current list of CFEs to a `.csv` file.
-*   **🎫 **Support Ticket System:** A dedicated page (`support.php`) that simulates an internal view of client-reported incidents. This directly addresses the **"customer support"** and **"incident resolution"** components of the job description.
+*   **🎫 Support Ticket System:** A dedicated page (`support.php`) that simulates an internal view of client-reported incidents. This directly addresses the **"customer support"** and **"incident resolution"** components of the job description.
 
 ---
 
