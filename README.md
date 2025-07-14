@@ -12,9 +12,25 @@
 
 ## 🎯 Project Context
 
-This is a full-stack web application developed in 2 days as a proactive response to a **Junior Programmer** job posting at an electronic invoicing company. The project's goal is to demonstrate the technical skills and business understanding required for the role, focusing on data management, client support simulation, and error handling.
+This is a full-stack web application developed in 3 days as a proactive response to a **Junior Programmer** job posting at an electronic invoicing company. The project's goal is to demonstrate the technical skills and business understanding required for the role, focusing on data management, client support simulation, and error handling.
 
 The entire interface and data are in English to showcase language proficiency, a valued skill in the job description.
+
+---
+
+## 🧠 Development Process & Methodology
+
+This project was executed in a 3-day sprint, leveraging an agile methodology and an iterative learning approach.
+
+To accelerate the understanding of the business problem and explore technical best practices, I used an **AI as a "sparring partner" and technical mentor**.
+
+My role in this process was that of the **lead architect and developer**:
+*   **Asking the right questions** to define the project's scope and structure.
+*   **Making key architectural decisions**, such as normalizing the database schema to ensure data integrity.
+*   **Writing, debugging, and refactoring the final code**. The AI served as a guide, but all code was implemented and is fully understood by me.
+*   **Solving complex, real-world problems**, such as debugging character encoding issues and resolving server environment configurations.
+
+This approach allowed me to not only deliver a functional and relevant product in a record amount of time but also to ensure a deep understanding of every line of code and every design decision, all of which I am prepared to discuss in detail.
 
 ---
 
@@ -36,6 +52,7 @@ This application simulates the management of Electronic Fiscal Vouchers (CFE), m
 *   **Backend:** PHP
 *   **Frontend:** Plain JavaScript (ES6+), HTML5, CSS3
 *   **Database:** MySQL
+*   **Deployment:** InfinityFree
 *   **Key PHP Concepts Used:**
     *   **Prepared Statements (mysqli):** To prevent SQL injection in all database operations.
     *   **File Handling:** For processing CSV uploads.
